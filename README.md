@@ -4,16 +4,16 @@
 
 Hi, I'm Aadesh!
 
-Data Analyst with 4 years of experience in US healthcare data operations, working with HEDIS quality measures, EHR and claims pipelines, and ICD / CPT / SNOMED coding. I recently completed an **MSc in Computing (Data Analytics) at Dublin City University** and I'm based in Dublin, Ireland.
+Data Analyst with 5+ years of experience in US healthcare data operations, working with HEDIS quality measures, EHR and claims pipelines, and ICD / CPT / SNOMED coding. I recently completed an **MSc in Computing (Data Analytics) at Dublin City University** and I'm based in Dublin, Ireland.
 
-I translate messy healthcare data into reliable, decision-ready insights using SQL, Python, BigQuery and BI dashboards.
+I translate messy data into reliable, decision-ready insights using SQL, Python, BigQuery and BI dashboards.
 
 ---
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aadesh-kshetre-7baa4b21a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adesh.kshetre2000@gmail.com)
 
 ---
 
@@ -33,23 +33,9 @@ I translate messy healthcare data into reliable, decision-ready insights using S
 ---
 
 # 🎓 Certifications
-
-- Microsoft Certified: Power BI Data Analyst (PL-300)
 - McKinsey Forward Program
 
 ---
 
 # 🚀 Featured Projects
-
-- **Customer Churn Analysis**: identifying which customers are likely to leave and why
 - **Missense Variant Pathogenicity Prediction**: MSc research using graph neural networks on AlphaFold structures
-
----
-
-# 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
-</p>
--->
