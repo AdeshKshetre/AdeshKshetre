@@ -4,7 +4,7 @@
 
 Hi, I'm Aadesh!
 
-Data Analyst with 5+ years of experience in US healthcare data operations, working with HEDIS quality measures, EHR and claims pipelines, and ICD / CPT / SNOMED coding. I recently completed an **MSc in Computing (Data Analytics) at Dublin City University** and I'm based in Dublin, Ireland.
+Data Analyst with 4+ years of experience in US healthcare data operations, working with HEDIS quality measures, EHR and claims pipelines, and ICD / CPT / SNOMED coding. I recently completed an **MSc in Computing (Data Analytics) at Dublin City University** and I'm based in Dublin, Ireland.
 
 I translate messy data into reliable, decision-ready insights using SQL, Python, BigQuery and BI dashboards.
 
