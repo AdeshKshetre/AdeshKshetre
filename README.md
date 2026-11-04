@@ -39,5 +39,5 @@ I translate messy data into reliable, decision-ready insights using SQL, Python,
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 - **Missense Variant Pathogenicity Prediction**: MSc research using graph neural networks on AlphaFold structures
